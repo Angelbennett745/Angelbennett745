@@ -1,16 +1,23 @@
-## Hi there 👋
+# Kelvin Karichu – CAD Designer Portfolio
 
-<!--
-**Angelbennett745/Angelbennett745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a CAD Designer with 5 years of experience in 2D drafting, 3D modeling, BIM workflows, and mechanical product design. I create accurate, fabrication-ready CAD models and technical drawings for architectural and mechanical projects. I collaborate with engineers and architects to deliver clean, production-ready digital assets.
 
-Here are some ideas to get you started:
+## Skills
+- 3D CAD Modeling  
+- 2D Technical Drawings  
+- BIM / IFC Modeling  
+- Parametric Design  
+- Design for Manufacturing (DFM)  
+- CAD Cleanup & Optimization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- FreeCAD  
+- AutoCAD Mechanical  
+- Autodesk Inventor  
+- Rhino 3D  
+- BlenderBIM / Bonsai  
+- LibreCAD / QCAD CE  
+- SolveSpace  
+
+## Projects
