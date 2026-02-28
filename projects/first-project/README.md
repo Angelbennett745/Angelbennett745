@@ -3,7 +3,7 @@
 ## Overview
 A detailed multi-level residential building designed for sloped terrain, featuring sectional views, structural framing, balconies, staircases, and interior layouts. The project focuses on accurate spatial planning,constructability,and clean parametric modelling for BIM workflows. Deliverables include 3D assemblies, cutaway sections, floor plans, and visualization-ready models for design review and construction documentation
 
-## Your Role
+## My Role
 Role: CAD/BIM Modeler (Architectural)
 Built the full 3D BIM model for a multi-level residential building on sloped terrain, produced plans and sectional views, and prepared visualization-ready models for design review and construction documentation.
 
