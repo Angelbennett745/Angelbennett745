@@ -1,4 +1,4 @@
-# Kelvin Karichu – CAD Designer Portfolio
+# Angel Bennett – CAD Designer Portfolio
 
 ## About Me
 I am a CAD Designer with 5 years of experience in 2D drafting, 3D modeling, BIM workflows, and mechanical product design. I create accurate, fabrication-ready CAD models and technical drawings for architectural and mechanical projects. I collaborate with engineers and architects to deliver clean, production-ready digital assets.
