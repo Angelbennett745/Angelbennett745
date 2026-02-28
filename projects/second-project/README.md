@@ -23,7 +23,7 @@ SOLIDWORKS
 - Design for Manufacturing (DFM)  
 
 ## Models
-(https://github.com/user-attachments/assets/5044754f-22ec-4642-bbf1-30a6ee5abc4a)
-(https://github.com/user-attachments/assets/de52c5dc-b6f7-4b5f-88d7-9a9ae24f319b)
-(https://github.com/user-attachments/assets/95f97dec-fbfa-47ae-87e7-cd4f45c999d1)
-(https://github.com/user-attachments/assets/b3eb1c8c-31e9-4033-9159-f013e9199714)
+![.](https://github.com/user-attachments/assets/462a1b4c-ba99-4309-836d-f52405137576)
+![.](https://github.com/user-attachments/assets/2391ff47-5819-49ff-8e91-1165b322b569)
+![.](https://github.com/user-attachments/assets/8e35a61d-c1d3-4dfb-8629-d26b063d667a)
+![.](https://github.com/user-attachments/assets/91f3178a-33e5-4bea-bb3a-712194c4729a)
